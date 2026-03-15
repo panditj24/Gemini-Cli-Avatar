@@ -80,6 +80,17 @@ To achieve the highest quality of reasoning and consistency, consider these leng
 3.  ***CONTENT:** Open the file in a standard text editor (Notepad/VS Code), paste your full strategic instructions, and save.***
 4.  ***DEPLOY:** Launch `GemCli-Avatar.exe` and select your persona from the menu.***
 
+### 📂 Recommended Folder Structure
+To maintain an organized and professional workspace, please adhere to the following directory architecture:
+
+```text
+C:\GeminiWorkspace\
+├── GemCli-Avatar.exe           <-- The "Brain" (Primary Execution Engine)
+├── GEMINI.md                   <-- (Optional) Global instructions for all agents
+├── Vibe-Coding-Agent.prompt.txt <-- Specialized Vibe-Coding Agent Persona
+└── PM-Assistant.prompt.txt      <-- Specialized Project Management Assistant Persona
+```
+
 ---
 
 ## 💻 4. Operating System & Security Standards
@@ -103,4 +114,4 @@ To achieve the highest quality of reasoning and consistency, consider these leng
 ## 📜 Technical Philosophy
 This project was realized through the **"Vibe-Coding"** methodology—prioritizing high-level strategic intent and rapid architectural iteration to deliver tools that are both functionally robust and aesthetically professional.
 
-*Developed by [panditj24]*
+*Developed by: panditj*
